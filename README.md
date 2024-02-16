@@ -6,3 +6,7 @@ Equipe:
 - Amanda
 
 Fonte de dados: [Airlines Delay](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
+
+Objetivo: 
+- Realizar uma análise descritiva por completo da base (Variáveis discretas e contínuas);
+- Avaliar a distribuição de probabilidade de variáveis contínuas que considera mais interessante;
