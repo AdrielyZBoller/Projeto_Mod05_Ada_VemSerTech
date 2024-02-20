@@ -9,7 +9,9 @@ Professor:
 - [Rogério Mainardes](https://www.linkedin.com/in/rogerioomds/)
 
 # Visão Geral do Projeto
-Este repositório contém um conjunto de scripts em Python para realizar análises de dados do [Airlines Delay](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses).
+✈️Este repositório contém um conjunto de scripts em Python para realizar análises de dados do [Airlines Delay](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses).
+
+🔍 Os dados trabalhados são obtidos pela Bureau of Transportation Statistics (BTS) do Departamento de Transportes dos EUA (DOT), que monitora o desempenho pontual de voos domésticos operados por grandes transportadoras aéreas. O DataFrame fornece informações resumidas sobre o número de voos pontuais, atrasados, cancelados e desviados. Esses dados são compilados a partir da Statistical Computing Statistical Graphics 2009 Data Expo.
 
 Para o desenvolvimento do projeto utilizou os seguintes pacotes Python:
 - ``pandas``
